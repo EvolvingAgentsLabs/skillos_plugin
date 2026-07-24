@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **Archived 2026-07-24 — merged into [skillos](https://github.com/EvolvingAgentsLabs/skillos) at `plugins/skillos-plugin/`.**
+>
+> One prompt corpus does not need three repositories; `SmartMemory.md` had already
+> drifted into three divergent copies.
+
+---
+
 # skillos
 
 Claude Code plugin that adds the `/skillos` command. Give it a goal — it creates specialized agents, executes them, logs traces, and consolidates learnings.
